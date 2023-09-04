@@ -18,7 +18,7 @@ import {
 } from '../errors';
 
 export const SPL_ASSOCIATED_TOKEN_PROGRAM_ID =
-  'ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL' as PublicKey<'ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL'>;
+  'AAAbAgYqexzo3vo41zP5RWQDVNcEqeo9BjBhGTLvRRJe' as PublicKey<'AAAbAgYqexzo3vo41zP5RWQDVNcEqeo9BjBhGTLvRRJe'>;
 
 export function createSplAssociatedTokenProgram(): Program {
   return {

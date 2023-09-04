@@ -39,7 +39,7 @@ export function recoverNestedAssociatedToken(
   // Program ID.
   const programId = context.programs.getPublicKey(
     'splAssociatedToken',
-    'ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL'
+    'AAAbAgYqexzo3vo41zP5RWQDVNcEqeo9BjBhGTLvRRJe'
   );
 
   // Accounts.
@@ -85,7 +85,7 @@ export function recoverNestedAssociatedToken(
   if (!resolvedAccounts.tokenProgram.value) {
     resolvedAccounts.tokenProgram.value = context.programs.getPublicKey(
       'splToken',
-      'TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA'
+      'TTTXzBCbNAJ7sJZErBkpdsgLWgwgR9gx6tud8m34YXb'
     );
     resolvedAccounts.tokenProgram.isWritable = false;
   }

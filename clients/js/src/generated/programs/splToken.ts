@@ -15,7 +15,7 @@ import {
 import { getSplTokenErrorFromCode, getSplTokenErrorFromName } from '../errors';
 
 export const SPL_TOKEN_PROGRAM_ID =
-  'TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA' as PublicKey<'TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA'>;
+  'TTTXzBCbNAJ7sJZErBkpdsgLWgwgR9gx6tud8m34YXb' as PublicKey<'TTTXzBCbNAJ7sJZErBkpdsgLWgwgR9gx6tud8m34YXb'>;
 
 export function createSplTokenProgram(): Program {
   return {
