@@ -81,7 +81,7 @@ export function createTokenIfMissing(
   // Program ID.
   const programId = context.programs.getPublicKey(
     'mplTokenExtras',
-    'TokExjvjJmhKaRBShsBAsbSvEWMA1AgUNK7ps4SAc2p'
+    'CdwX7hs6SNGAVwD6xithEiyBA7TPGiGuxTRYs8LGwrq4'
   );
 
   // Accounts.

@@ -18,7 +18,7 @@ import {
 } from '../errors';
 
 export const MPL_TOKEN_EXTRAS_PROGRAM_ID =
-  'TokExjvjJmhKaRBShsBAsbSvEWMA1AgUNK7ps4SAc2p' as PublicKey<'TokExjvjJmhKaRBShsBAsbSvEWMA1AgUNK7ps4SAc2p'>;
+  'CdwX7hs6SNGAVwD6xithEiyBA7TPGiGuxTRYs8LGwrq4' as PublicKey<'CdwX7hs6SNGAVwD6xithEiyBA7TPGiGuxTRYs8LGwrq4'>;
 
 export function createMplTokenExtrasProgram(): Program {
   return {
