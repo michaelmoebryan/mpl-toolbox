@@ -18,7 +18,7 @@ import {
 } from '../errors';
 
 export const MPL_SYSTEM_EXTRAS_PROGRAM_ID =
-  'SysExL2WDyJi9aRZrXorrjHJut3JwHQ7R9bTyctbNNG' as PublicKey<'SysExL2WDyJi9aRZrXorrjHJut3JwHQ7R9bTyctbNNG'>;
+  '149cwWDejFyWi7Hw5hMBGPK4NgfsyUnYrRKbdKeTqSoy' as PublicKey<'149cwWDejFyWi7Hw5hMBGPK4NgfsyUnYrRKbdKeTqSoy'>;
 
 export function createMplSystemExtrasProgram(): Program {
   return {

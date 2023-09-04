@@ -68,7 +68,7 @@ export function transferAllSol(
   // Program ID.
   const programId = context.programs.getPublicKey(
     'mplSystemExtras',
-    'SysExL2WDyJi9aRZrXorrjHJut3JwHQ7R9bTyctbNNG'
+    '149cwWDejFyWi7Hw5hMBGPK4NgfsyUnYrRKbdKeTqSoy'
   );
 
   // Accounts.
